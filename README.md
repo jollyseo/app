@@ -23,27 +23,18 @@ Strumento avanzato per verificare backlink in modo automatizzato, generare repor
 
 2. **Clona il repository**:
    ```bash
-   git clone https://github.com/app/automate-backlink.git
-   cd backlink-checker
+   git clone https://github.com/jollyseo/app.git
 
 Installa le dipendenze:
 
 bash
 Copy
 pip install -r requirements.txt
+
 🛠 Configurazione
 Prima dell'uso, prepara questi file nella cartella principale:
 
 backlink.json - Template dei backlink da verificare:
-
-json
-Copy
-[
-    {"url": "http://example.com/yourwebsite.com"},
-    {"url": "http://anothersite.com/yourwebsite.com"}
-]
-(Sostituisci yourwebsite.com con il tuo placeholder tuo dominio)
-
 siti.txt - Lista di domini da verificare (uno per riga):
 
 Copy
@@ -152,3 +143,4 @@ Copy
 ```markdown
 ![Tests](https://github.com/tuorepo/automate-backlink/actions/workflows/tests.yml/badge.svg)
 ![CodeQL](https://github.com/tuorepo/automate-backlink/actions/workflows/codeql-analysis.yml/badge.svg)
+![powered](https://www.anyweb.it) by Angelo Cosenza
