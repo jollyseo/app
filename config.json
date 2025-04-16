@@ -1,0 +1,7 @@
+{
+    "max_workers": 10,
+    "timeout": 15,
+    "input_file": "backlink.json",
+    "output_file": "backlink_report.txt",
+    "non_working_file": "non_working_backlinks.json"
+}
