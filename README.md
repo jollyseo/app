@@ -1,10 +1,10 @@
-# Backlink Checker Pro
+# Automatic Backlink
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
-Strumento avanzato per verificare backlink in modo automatizzato, generare report HTML e gestire liste di proxy.
+Strumento avanzato per la creazione di backlink in modo automatico, di massa, per piu domini, generare report HTML dei risultati e gestire liste di proxy.
 
 ## 🚀 Funzionalità
 
@@ -142,3 +142,5 @@ Copy
 3. **Badge aggiuntivi** (da aggiungere in README):
 ```markdown
 ![powered](https://www.anyweb.it) by Angelo Cosenza
+
+
