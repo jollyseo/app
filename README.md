@@ -141,6 +141,4 @@ Copy
 
 3. **Badge aggiuntivi** (da aggiungere in README):
 ```markdown
-![Tests](https://github.com/tuorepo/automate-backlink/actions/workflows/tests.yml/badge.svg)
-![CodeQL](https://github.com/tuorepo/automate-backlink/actions/workflows/codeql-analysis.yml/badge.svg)
 ![powered](https://www.anyweb.it) by Angelo Cosenza
